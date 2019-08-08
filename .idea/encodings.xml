@@ -3,6 +3,8 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-orders" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-pricing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-zuul" charset="UTF-8" />
   </component>
 </project>

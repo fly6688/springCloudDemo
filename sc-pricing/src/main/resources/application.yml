@@ -6,15 +6,8 @@ spring:
 
 eureka:
   instance:
-    nonSecurePort: ${server.port:8083}
-    leaseRenewalIntervalInSeconds: 5
-    leaseExpirationDurationInSeconds: 10
-    preferIpAddress: true
-    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
     hostname: localhost
   client:
-    healthcheck:
-      enabled: true
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:8811/eureka/
     lease:

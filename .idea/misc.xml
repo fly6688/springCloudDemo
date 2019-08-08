@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sc-pricing/pom.xml" />
         <option value="$PROJECT_DIR$/sc-application/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-orders/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-zuul/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,29 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: sc-zuul
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:8811/eureka/
+    lease:
+      duration: 5
+
+zuul:
+  routes:
+    api-a:
+      path: /application/**
+#      serviceId: sc-application-provider
+      url: http://${eureka.instance.hostname}:8001/sc-application
+    api-b:
+      path: /pricing/**
+#      serviceId: sc-pricing-provider
+      url: http://${eureka.instance.hostname}:8001/sc-pricing
+    api-c:
+      path: /orders/**
+#      serviceId: sc-orders-provider
+      url: http://${eureka.instance.hostname}:8001/sc-orders
