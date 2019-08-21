@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059331c4-7bca-4cf1-8947-e1b0c0b4c2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/impl/TestServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sc-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-application/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/ScApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/ScApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/TestService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/impl/TestServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-application/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-application/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sc-pricing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-pricing/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,55 +25,7 @@
         <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-zuul/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/filter/MyFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/TestService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-pricing/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -97,22 +33,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,24 +55,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/impl/TestServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/TestService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/ScZuulApplication.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/impl/TestServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +96,6 @@
         <option value="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/controller/TestController.java" />
         <option value="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/impl/TestServiceImpl.java" />
         <option value="$PROJECT_DIR$/sc-application/pom.xml" />
-        <option value="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java" />
         <option value="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/ScApplication.java" />
         <option value="$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/impl/TestServiceImpl.java" />
@@ -171,13 +104,14 @@
         <option value="$PROJECT_DIR$/sc-orders/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/sc-orders/src/main/java/com/fly/scpricing/controller/TestController.java" />
         <option value="$PROJECT_DIR$/sc-application/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/sc-pricing/pom.xml" />
         <option value="$PROJECT_DIR$/sc-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/ScZuulApplication.java" />
         <option value="$PROJECT_DIR$/sc-zuul/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java" />
         <option value="$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/sc-pricing/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java" />
       </list>
     </option>
   </component>
@@ -191,17 +125,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sc-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sc-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -220,68 +144,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scapplication" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scapplication" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -328,54 +197,10 @@
               <item name="scpricing" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sczuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sc-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -386,7 +211,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565255334651" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566204563635" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sc-orders/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -416,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ScZuulApplication">
+  <component name="RunManager" selected="Spring Boot.ScPricingApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -510,12 +335,35 @@
       <updated>1564973760392</updated>
       <workItem from="1564973765613" duration="11119000" />
       <workItem from="1564997828415" duration="13000" />
-      <workItem from="1565052769769" duration="42467000" />
+      <workItem from="1565052769769" duration="70500000" />
+      <workItem from="1566347752259" duration="1313000" />
     </task>
+    <task id="LOCAL-00001" summary="断路器+ZUUL">
+      <created>1565255410762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565255410762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="断路器+ZUUL">
+      <created>1565255487940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565255487940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="断路器+ZUUL">
+      <created>1565255518367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565255518367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53599000" />
+    <option name="totallyTimeSpent" value="82945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,7 +376,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -536,7 +383,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1913767" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -544,11 +391,11 @@
       <window_info anchor="bottom" id="Messages" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.44680852" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.36824876" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.36497545" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.5188216" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -559,7 +406,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.22163388" />
+      <window_info active="true" anchor="right" id="Maven" order="6" visible="true" weight="0.22163388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
@@ -567,6 +414,50 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="断路器+ZUUL" />
+    <option name="LAST_COMMIT_MESSAGE" value="断路器+ZUUL" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://E:/jar/me-repository/org/springframework/boot/spring-boot-starter-parent/2.0.3.RELEASE/spring-boot-starter-parent-2.0.3.RELEASE.pom">
@@ -576,22 +467,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/jar/me-repository/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="506" column="12" selection-start-line="506" selection-start-column="12" selection-end-line="506" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/jar/me-repository/org/springframework/cloud/spring-cloud-netflix-core/2.0.0.RELEASE/spring-cloud-netflix-core-2.0.0.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://E:/jar/me-repository/org/springframework/cloud/spring-cloud-openfeign-core/2.0.0.RELEASE/spring-cloud-openfeign-core-2.0.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,27 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/impl/TestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/jar/me-repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -652,13 +512,6 @@
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#492#493#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -721,23 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/impl/TestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -750,49 +586,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-pricing/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sc-zuul/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -810,10 +607,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-application/src/main/java/com/fly/scapplication/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sc-zuul/src/main/java/com/fly/sczuul/filter/MyFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="494">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
@@ -822,6 +649,80 @@
             <element signature="e#732#733#0" expanded="true" />
             <element signature="e#812#813#0" expanded="true" />
             <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/jar/me-repository/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="281" column="12" selection-start-line="281" selection-start-column="12" selection-end-line="281" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="48" column="70" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jar/me-repository/org/springframework/cloud/spring-cloud-commons/2.0.0.RELEASE/spring-cloud-commons-2.0.0.RELEASE.jar!/org/springframework/cloud/client/circuitbreaker/EnableCircuitBreaker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/ScPricingApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-pricing/src/main/java/com/fly/scpricing/service/impl/TestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
           </folding>
         </state>
       </provider>
